@@ -123,6 +123,8 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="custom-clearance.png" />
+    <Content Include="diploma.png" />
     <Content Include="icons8-certificate-30.png" />
     <Content Include="icons8-clearance-30.png" />
     <Content Include="icons8-home-30.png" />
@@ -131,6 +133,8 @@
     <Content Include="icons8-reports-30.png" />
     <Content Include="icons8-settings-30.png" />
     <Content Include="icons8-sms-30.png" />
+    <Content Include="report.png" />
+    <Content Include="user.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
 </Project>
